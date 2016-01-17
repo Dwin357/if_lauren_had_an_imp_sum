@@ -1,5 +1,6 @@
 <?php
   $tab = "fool";
+  $page = "fool";
   $content = array(
     array(
       "body"=>"the novice in his folly"
@@ -15,5 +16,5 @@
       "body"=>"comes whispering 'round.")
     );
   
-  include 'application_layout.php';
+  include 'layouts/application_layout.php';
 ?>

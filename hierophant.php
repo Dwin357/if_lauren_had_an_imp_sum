@@ -1,5 +1,6 @@
 <?php
   $tab = "hierophant";
+  $page = "hierophant";
   $content = array(
     array(
       "header"=>"Mighty are the those",
@@ -16,5 +17,5 @@
       "body"=>"recede or ascend, there can be no other choice.")
   );
   
-  include 'application_layout.php';
+  include 'layouts/application_layout.php';
 ?>

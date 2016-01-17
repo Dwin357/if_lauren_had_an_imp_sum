@@ -1,5 +1,6 @@
 <?php
   $tab = "tower";
+  $page = "tower";
   $content = array(
     array(
       "header"=>"Built upon",
@@ -15,8 +16,8 @@
     ),
     array(
       "header"=>"so a fall proceeds",
-      "body"=>"from a lack of balance")
+      "body"=>"before our eyes")
   );
 
-  include 'application_layout.php';
+  include 'layouts/application_layout.php';
 ?>
