@@ -12,10 +12,10 @@
     ),
     array(
       "header"=>"but fragile",
-      "body" => "are structures of power"
+      "body" => "the foundation of power lies"
     ),
     array(
-      "header"=>"so a fall proceeds",
+      "header"=>"and a fall proceeds",
       "body"=>"before our eyes")
   );
 

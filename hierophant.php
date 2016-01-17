@@ -4,17 +4,17 @@
   $content = array(
     array(
       "header"=>"Mighty are the those",
-      "body" => "who percipitate light in the darkness"
+      "body" => "who survive the fall"
     ),
     array(
-      "header"=> "to Fall as doves",
-      "body"=>"they share their discoveries with others"
+      "header"=> "their light percipitates the dark.",
+      "body"=>"But every candle burns in time, to rule is to resist"
     ),
     array(
-      "body"=>"but to rule over is to resist change, and so they must"
+      "body"=>"change, and so they must recede or else ascend"
     ),
     array(
-      "body"=>"recede or ascend, there can be no other choice.")
+      "body"=>"--there can be no other choice.")
   );
   
   include 'layouts/application_layout.php';
